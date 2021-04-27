@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\Bitter"
+		},
+		{
+			"path": "..\\vendor"
+		},
+		{
+			"path": "..\\css"
+		},
+		{
+			"path": "..\\fonts"
+		},
+		{
+			"path": "..\\images"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "js"
+	}
+}
